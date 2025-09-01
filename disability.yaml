@@ -1,0 +1,9 @@
+path: C:/Users/pkrpr/OneDrive/Desktop/AML/DisabilityDetection
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: wheelchair
+  1: walking_stick
